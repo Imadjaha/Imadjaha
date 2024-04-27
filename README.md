@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aimad Bouchouaf known as imadjaha</h1>
 <h3 align="center">A dedicated computer science student at the University of Wuppertal</h3>
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quantamagazine.org%2Fmathematician-solves-computer-science-conjecture-in-two-pages-20190725&psig=AOvVaw1L_GiNdtp_e1t_iFWtkV3a&ust=1714283957364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiKwsbb4YUDFQAAAAAdAAAAABAm](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="imadjaha" /> </p>
 
