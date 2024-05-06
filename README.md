@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://imadjaha.github.io/Portfolio_ReactJs/)
 
-- 💬 Ask me about **react, data science**
-
 - 📫 How to reach me **imadjaha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
