@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-Native, data visualization with Python**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://imadjaha.github.io/Portfolio_ReactJs/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://imadjaha.github.io/portfolio/)
 
 - 📫 How to reach me **imadjaha1@gmail.com**
 
