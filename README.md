@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aimad Bouchouaf known as imadjaha</h1>
 <h3 align="center">A dedicated computer science student at the University of Wuppertal</h3>
-<img align="right" alt="Coding" width="400" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif" >
+<!-- <img align="right" alt="Coding" width="400" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif" > -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="imadjaha" /> </p>
 
