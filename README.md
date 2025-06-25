@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="imadjaha" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **React-Native, data visualization with Python**
+- 🔭 I’m currently developing a **feature-rich E-commerce website** focused on performance and user experience  
+- 🌱 Actively learning **React Native** for mobile development and exploring **data visualization with Python** to turn data into insights  
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aimad-bouchouaf.com/)
 
@@ -57,6 +56,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="restful api" width="40" height="40"/>
   </a>
 </p>
+
 
 <h4 align="left">Database:</h4>
 <p align="left"> 
