@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimad Bouchouaf known as imadjaha</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Imad;Full-Stack+Developer;Lifelong+Learner;Let’s+Build+Something+Awesome!&center=true&width=380&height=35">
+</p>
 <h3 align="center">A dedicated computer science student at the University of Wuppertal</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif" > -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
@@ -40,6 +43,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
 </p>
+
+
 
 <h4 align="left">Backend:</h4>
 <p align="left">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask"> 
@@ -104,4 +109,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadjaha&show_icons=true&locale=en" alt="imadjaha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadjaha&" alt="imadjaha" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadjaha&" alt="imadjaha" /></p> -->
+
+
+
