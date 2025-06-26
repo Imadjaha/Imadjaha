@@ -14,7 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aimad-bouchouaf.com/)
 
-- 📫 How to reach me **imadjaha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
