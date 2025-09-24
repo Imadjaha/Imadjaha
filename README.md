@@ -12,7 +12,7 @@
 - 🔭 I’m currently developing a **feature-rich E-commerce website** focused on performance and user experience  
 - 🌱 Actively learning **React Native** for mobile development and exploring **data visualization with Python** to turn data into insights  
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aimad-bouchouaf.com/)
+- 👨‍💻 Check out my website for more info -> [Aimad-Webseite](https://aimad-bouchouaf.com/)
 
 
 <h3 align="left">Connect with me:</h3>
