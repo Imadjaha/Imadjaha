@@ -9,10 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="imadjaha" /> </p>
 
-- 🔭 I’m currently developing a **feature-rich E-commerce website** focused on performance and user experience  
-- 🌱 Actively learning **React Native** for mobile development and exploring **data visualization with Python** to turn data into insights  
+<h3>🌟 What I’m Working On</h2>
+<ul>
+  <li>⚡ Exploring scalable web architectures and modern design patterns for high-performance apps</li>
+  <li>📊 Turning complex data into clear stories through Python-based visualization</li>
+  <li>📱 Expanding into cross-platform mobile apps with React Native</li>
+  <li>🌍 Interested in building accessible, user-centered digital experiences</li>
+</ul>
 
-- 👨‍💻 Check out my website for more info -> [Aimad-Website](https://aimad-bouchouaf.com/)
+
+- 👨‍💻 🌐 Learn more about my work at -> [aimad-bouchouaf.com](https://aimad-bouchouaf.com/)
 
 
 <h3 align="left">Connect with me:</h3>
