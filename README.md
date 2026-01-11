@@ -105,6 +105,23 @@
   <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer" title="Tkinter"> <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" alt="tkinter" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Adobe Photoshop"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <!-- Grafana -->
+<a href="https://grafana.com/" target="_blank" rel="noreferrer" title="Grafana">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+</a>
+
+<!-- Prometheus -->
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+</a>
+
+<!-- Loki -->
+<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer" title="Grafana Loki">
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="loki" width="40" height="40"/>
+</a>
+
+
+
 </p>
 
 
