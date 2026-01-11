@@ -103,7 +103,6 @@
 <p align="left"> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer" title="Qt"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
   <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer" title="Tkinter"> <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" alt="tkinter" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Adobe Photoshop"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <!-- Grafana -->
 <a href="https://grafana.com/" target="_blank" rel="noreferrer" title="Grafana">
