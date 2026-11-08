@@ -1,136 +1,170 @@
-<h1 align="center">Hi 👋, I'm Aimad Bouchouaf known as imadjaha</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Imad;Full-Stack+Developer;Lifelong+Learner;Let’s+Build+Something+Awesome!&center=true&width=380&height=35">
-</p>
-<h3 align="center">A dedicated computer science student at the University of Wuppertal</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/07/Boolean-Sensitivity_2880x1620_Lede.gif" > -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+<div align="center">
 
+# Hi, I'm Aimad Bouchouaf 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="imadjaha" /> </p>
-
-<h3>🌟 What I’m Working On</h2>
-<ul>
-  <li>⚡ Exploring scalable web architectures and modern design patterns for high-performance apps</li>
-  <li>📊 Turning complex data into clear stories through Python-based visualization</li>
-  <li>📱 Expanding into cross-platform mobile apps with React Native</li>
-  <li>🌍 Interested in building accessible, user-centered digital experiences</li>
-</ul>
-
-
-- 👨‍💻 🌐 Learn more about my work at -> [aimad-bouchouaf.com](https://aimad-bouchouaf.com/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/aimad-bouchouaf" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="imadjaha" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/imadjaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imadjaha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imadjaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imadjaha" height="30" width="40" />
+<a href="https://aimad-bouchouaf.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Clean+code+%26+scalable+systems;Let%27s+build+something+great+together" alt="Typing SVG" />
 </a>
+<p>
+  <a href="https://aimad-bouchouaf.com"><img src="https://img.shields.io/badge/Portfolio-aimad--bouchouaf.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aimad-bouchouaf"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/imadjaha"><img src="https://img.shields.io/badge/LeetCode-imadjaha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/imadjaha"><img src="https://img.shields.io/badge/HackerRank-imadjaha-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img src="https://komarev.com/ghpvc/?username=imadjaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<h4 align="left">Frontend:</h4>
-<p align="left"> 
-   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" title="Tailwind CSS"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind css" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-</a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a>
-</p>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **full-stack developer** who enjoys turning real-world processes into clean, reliable software. My focus is on the full path from database to UI: **Spring Boot** and **Node.js** backends, **React / TypeScript** frontends, containerised with **Docker**.
+
+For my **Bachelor thesis**, I built a full-stack **Laboratory Information Management System (LIMS)** that digitises the complete sample lifecycle in medical and industrial labs.
+
+- 🔭 **Currently:** scalable web architectures and design patterns for high-performance apps
+- 📱 **Expanding into:** cross-platform mobile development with React Native
+- 📊 **Also into:** data visualisation with Python and observability with Grafana and Prometheus
+- 🌍 **Care about:** accessible, user-centred digital experiences
+- 💬 **Ask me about:** Java, Spring Boot, React, REST/GraphQL APIs, SQL
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/lab-management-system">🧪 Lab Management System</a></h3>
+      <p><b>Bachelor thesis.</b> A full LIMS covering customer orders, sample reception, result entry, validation rules and final reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/media-management-tool">🎬 Media Management Tool</a></h3>
+      <p>Full-stack app for managing media, categories and loans, with a statistics dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/serverless-s3-explorer">☁️ Serverless S3 Explorer</a></h3>
+      <p>Single-page app to browse, search, preview and download objects in any S3 bucket. Region-aware pre-signed links, no database.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/benefitHub">🎁 BenefitHub</a></h3>
+      <p>Employee benefit and partner management platform with a responsive UI, dark mode and smooth animations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/cryptography-toolkit">🔐 Cryptography Toolkit</a></h3>
+      <p>Interactive notebooks implementing RSA, ECC, ElGamal, Diffie–Hellman, DSA, hashing and more, each with theory and examples.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Imadjaha/organize-files-with-Bash">🗂️ Organize Files (Bash)</a></h3>
+      <p>CLI that sorts cluttered folders by file type, with recursion, dry-run, collision handling and full undo via log files.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,bash&perline=12" /></a>
+
+**Frontend**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css,redux,vite&perline=12" /></a>
+
+**Backend & APIs**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,flask,graphql,maven&perline=12" /></a>
+
+**Databases**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=12" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="40" />
+
+**DevOps, Cloud & Observability**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,grafana,prometheus&perline=12" /></a>
+
+**Data Science & Other**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=imadjaha&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+</div>
 
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imadjaha&theme=github_dark" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imadjaha&theme=github_dark" alt="Most committed languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imadjaha&theme=github_dark" alt="Repos per language" height="165" />
+</div>
 
-<h4 align="left">Backend:</h4>
-<p align="left">  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring Boot"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a>
-   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="RESTful API">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="restful api" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imadjaha&theme=github_dark&timeZone=Europe/Berlin" alt="Productive time" height="165" /> -->
+</div>
 
+---
 
-<h4 align="left">Database:</h4>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="Microsoft SQL Server"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-</p>
+<div align="center">
 
-<h4 align="left">Data Science:</h4>
-<p align="left"> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" title="Matplotlib"> <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="matplotlib" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title="Seaborn"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-</p>
+### 🤝 Let's connect
 
-<h4 align="left">Version Control:</h4>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+I'm always open to interesting projects, new opportunities and collaborations.
+Reach me via [LinkedIn](https://linkedin.com/in/aimad-bouchouaf) or my [portfolio](https://aimad-bouchouaf.com).
 
-<h4 align="left">Programming Languages:</h4>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
+⭐ *If you like one of my projects, a star is always appreciated!*
 
-</p>
-
-<h4 align="left">Others:</h4>
-<p align="left"> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer" title="Qt"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer" title="Tkinter"> <img src="https://storage.googleapis.com/replit/images/1619744706953_a11b5e0a6acf250ac95d9b46d5a2673f.jpeg" alt="tkinter" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <!-- Grafana -->
-<a href="https://grafana.com/" target="_blank" rel="noreferrer" title="Grafana">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
-</a>
-
-<!-- Prometheus -->
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer" title="Prometheus">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-</a>
-
-<!-- Loki -->
-<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer" title="Grafana Loki">
-  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="loki" width="40" height="40"/>
-</a>
-
-
-
-</p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadjaha&show_icons=true&locale=en&layout=compact" alt="imadjaha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadjaha&show_icons=true&locale=en" alt="imadjaha" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadjaha&" alt="imadjaha" /></p> -->
-
-
-
+</div>
